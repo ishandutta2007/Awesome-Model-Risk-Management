@@ -55,42 +55,42 @@
 
 Below are key open-source building blocks for model risk management, fairness, explainability, and monitoring.
 
-*Sorted by GitHub Star Count (descending).*
+*Sorted by GitHub Stars_Count (descending).*
 
-- **[SHAP](https://github.com/shap/shap)** [![GitHub stars](https://img.shields.io/github/stars/shap/shap?style=social&color=white)](https://github.com/shap/shap/stargazers)  
+- **[SHAP](https://github.com/shap/shap)** [![GitHub_Stars](https://img.shields.io/github/stars/shap/shap?style=social&color=white)](https://github.com/shap/shap/stargazers)  
   Game-theoretic approach (SHapley Additive exPlanations) to explain the output of any machine learning model.
 
-- **[Great Expectations](https://github.com/great-expectations/great_expectations)** [![GitHub stars](https://img.shields.io/github/stars/great-expectations/great_expectations?style=social&color=white)](https://github.com/great-expectations/great_expectations/stargazers)  
+- **[Great Expectations](https://github.com/great-expectations/great_expectations)** [![GitHub_Stars](https://img.shields.io/github/stars/great-expectations/great_expectations?style=social&color=white)](https://github.com/great-expectations/great_expectations/stargazers)  
   Data validation and profiling framework to maintain data quality in model training and inference pipelines.
 
-- **[Evidently](https://github.com/evidentlyai/evidently)** [![GitHub stars](https://img.shields.io/github/stars/evidentlyai/evidently?style=social&color=white)](https://github.com/evidentlyai/evidently/stargazers)  
+- **[Evidently](https://github.com/evidentlyai/evidently)** [![GitHub_Stars](https://img.shields.io/github/stars/evidentlyai/evidently?style=social&color=white)](https://github.com/evidentlyai/evidently/stargazers)  
   Open-source ML and LLM observability library for data drift, performance tracking, model metrics, and interactive dashboards.
 
-- **[InterpretML](https://github.com/interpretml/interpret)** [![GitHub stars](https://img.shields.io/github/stars/interpretml/interpret?style=social&color=white)](https://github.com/interpretml/interpret/stargazers)  
+- **[InterpretML](https://github.com/interpretml/interpret)** [![GitHub_Stars](https://img.shields.io/github/stars/interpretml/interpret?style=social&color=white)](https://github.com/interpretml/interpret/stargazers)  
   Toolkit for training interpretable glassbox models and explaining blackbox machine learning systems.
 
-- **[AI Fairness 360 (AIF360)](https://github.com/Trusted-AI/AIF360)** [![GitHub stars](https://img.shields.io/github/stars/Trusted-AI/AIF360?style=social&color=white)](https://github.com/Trusted-AI/AIF360/stargazers)  
+- **[AI Fairness 360 (AIF360)](https://github.com/Trusted-AI/AIF360)** [![GitHub_Stars](https://img.shields.io/github/stars/Trusted-AI/AIF360?style=social&color=white)](https://github.com/Trusted-AI/AIF360/stargazers)  
   IBM's comprehensive open-source Python toolkit for detecting and mitigating discrimination and bias in machine learning models.
 
-- **[Fairlearn](https://github.com/fairlearn/fairlearn)** [![GitHub stars](https://img.shields.io/github/stars/fairlearn/fairlearn?style=social&color=white)](https://github.com/fairlearn/fairlearn/stargazers)  
+- **[Fairlearn](https://github.com/fairlearn/fairlearn)** [![GitHub_Stars](https://img.shields.io/github/stars/fairlearn/fairlearn?style=social&color=white)](https://github.com/fairlearn/fairlearn/stargazers)  
   Python library for assessing model fairness and mitigating bias across demographics.
 
-- **[Alibi Detect](https://github.com/SeldonIO/alibi-detect)** [![GitHub stars](https://img.shields.io/github/stars/SeldonIO/alibi-detect?style=social&color=white)](https://github.com/SeldonIO/alibi-detect/stargazers)  
+- **[Alibi Detect](https://github.com/SeldonIO/alibi-detect)** [![GitHub_Stars](https://img.shields.io/github/stars/SeldonIO/alibi-detect?style=social&color=white)](https://github.com/SeldonIO/alibi-detect/stargazers)  
   Algorithms for outlier, adversarial, and concept drift detection in tabular, text, and image data.
 
-- **[Alibi Explain](https://github.com/SeldonIO/alibi)** [![GitHub stars](https://img.shields.io/github/stars/SeldonIO/alibi?style=social&color=white)](https://github.com/SeldonIO/alibi/stargazers)  
+- **[Alibi Explain](https://github.com/SeldonIO/alibi)** [![GitHub_Stars](https://img.shields.io/github/stars/SeldonIO/alibi?style=social&color=white)](https://github.com/SeldonIO/alibi/stargazers)  
   Python library algorithms for black-box, white-box, counterfactual, and anchor model explanations.
 
-- **[WhyLogs](https://github.com/whylabs/whylabs-processing-core)** [![GitHub stars](https://img.shields.io/github/stars/whylabs/whylabs-processing-core?style=social&color=white)](https://github.com/whylabs/whylabs-processing-core/stargazers)  
+- **[WhyLogs](https://github.com/whylabs/whylabs-processing-core)** [![GitHub_Stars](https://img.shields.io/github/stars/whylabs/whylabs-processing-core?style=social&color=white)](https://github.com/whylabs/whylabs-processing-core/stargazers)  
   Open-source data profiling library for tracking statistical properties of datasets and ML models in production.
 
-- **[Deepchecks](https://github.com/deepchecks/deepchecks)** [![GitHub stars](https://img.shields.io/github/stars/deepchecks/deepchecks?style=social&color=white)](https://github.com/deepchecks/deepchecks/stargazers)  
+- **[Deepchecks](https://github.com/deepchecks/deepchecks)** [![GitHub_Stars](https://img.shields.io/github/stars/deepchecks/deepchecks?style=social&color=white)](https://github.com/deepchecks/deepchecks/stargazers)  
   Continuous validation and testing framework for machine learning models and data across data integrity, model performance, and data drift.
 
-- **[Giskard](https://github.com/Giskard-AI/giskard)** [![GitHub stars](https://img.shields.io/github/stars/Giskard-AI/giskard?style=social&color=white)](https://github.com/Giskard-AI/giskard/stargazers)  
+- **[Giskard](https://github.com/Giskard-AI/giskard)** [![GitHub_Stars](https://img.shields.io/github/stars/Giskard-AI/giskard?style=social&color=white)](https://github.com/Giskard-AI/giskard/stargazers)  
   Open-source QA, security, and vulnerability testing framework for LLMs and tabular AI models.
 
-- **[TruLens](https://github.com/truera/trulens)** [![GitHub stars](https://img.shields.io/github/stars/truera/trulens?style=social&color=white)](https://github.com/truera/trulens/stargazers)  
+- **[TruLens](https://github.com/truera/trulens)** [![GitHub_Stars](https://img.shields.io/github/stars/truera/trulens?style=social&color=white)](https://github.com/truera/trulens/stargazers)  
   Evaluation and tracking instrumentation for LLM applications and RAG chains.
 
 ---
@@ -110,7 +110,7 @@ Contributions are welcome! Help build the definitive Model Risk Management resou
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add/edit** entries in `README.md` following the established tabular and list structures.
-3. 📌 **Provide Details**: Ensure company scale, pricing, free trial specs, or repo star badges are included accurately.
+3. 📌 **Provide Details**: Ensure company scale, pricing, free trial specs, or repo Stars_Badges are included accurately.
 4. 🚀 **Submit PR**: Open a pull request with a concise summary of updates.
 
 Please check out our list of awesome resources at [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)!
